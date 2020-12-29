@@ -12,7 +12,7 @@ Quick Link
 
 ## Hello! 😀
 
-I am a visiting fellow at the University of Southampton and keen coding enthusiast. On my GitHub, you will find repositories associated with my publications 📊 and random data projects. 
+I am a visiting fellow at the University of Southampton and keen coding enthusiast. On my GitHub, you will find repositories associated with my publications 📊 and random data projects. Website: https://cshoggard.netlify.app/
 
-Website: https://cshoggard.netlify.app/
+All feedback is welcome via [Twitter](https://twitter.com/CSHoggard) or [e-mail](mailto:christianhoggard@gmail.com).  
 

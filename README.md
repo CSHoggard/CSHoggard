@@ -1,16 +1,18 @@
-### Hi there 👋
+&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:necktie: [LinkedIn][LinkedIn]
+
+</div>
 
 <!--
-**CSHoggard/CSHoggard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Quick Link
 -->
+
+[Twitter]:https://twitter.com/cshoggard
+[LinkedIn]:https://www.linkedin.com/in/cshoggard/
+[Email]:mailto:christianhoggard@gmail.com
+
+## Hello! 😀
+
+I am a visiting fellow at the University of Southampton and keen coding enthusiast. On my GitHub, you will find repositories associated with my publications 📊 and random data projects. 
+
+Website: https://cshoggard.netlify.app/
+

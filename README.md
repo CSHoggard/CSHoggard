@@ -10,7 +10,7 @@ Quick Link
 [LinkedIn]:https://www.linkedin.com/in/cshoggard/
 [Email]:mailto:christianhoggard@gmail.com
 
-## Hello! 😀
+## Dr. Christian Steven Hoggard 
 
 I am a visiting fellow at the University of Southampton and keen coding enthusiast. On my GitHub, you will find repositories associated with my publications 📊 and random data projects. Website: https://cshoggard.netlify.app/
 

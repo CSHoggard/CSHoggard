@@ -12,7 +12,7 @@ Quick Link
 
 ## Dr. Christian Steven Hoggard 
 
-Hi there! I am a visiting fellow in archaeological science at the University of Southampton and a keen coding enthusiast. On my GitHub, you will find repositories associated with my publications 📊 in addition to random data projects. Website: https://cshoggard.netlify.app/
+Hi there! I am a Senior Data Insight Analyst and Visiting Fellow in Archaeological Science at the University of Southampton. On my GitHub, you will find repositories associated with my publications 📊 in addition to random data projects. Website: https://cshoggard.netlify.app/
 
 (Open for Collaborations)
 
